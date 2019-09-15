@@ -1,0 +1,43 @@
+{
+  "default":{
+    "poses":{
+    },
+    "name":"Narrator"
+  },
+
+  "legohead":{
+    "poses":{
+      "default":"img/characters/legohead/default.png",
+      "not_upset":"img/characters/legohead/not_upset.png",
+      "angry":"img/characters/legohead/angry.png"
+    },
+    "name":"LegoHead"
+  },
+
+  "embroidery_face":{
+    "poses":{
+      "default":"img/characters/embroidery_face/default.png",
+      "happy":"img/characters/embroidery_face/happy.png",
+      "angry":"img/characters/embroidery_face/angry.png"
+    },
+    "name":"Embroidery Face"
+  },
+
+  "blobby":{
+    "poses":{
+      "default":"img/characters/blobby/default.png",
+      "happy":"img/characters/blobby/happy.png",
+      "angry":"img/characters/blobby/angry.png"
+    },
+    "name":"Blobby"
+  },
+
+  "komodo":{
+    "poses":{
+      "default":"img/characters/Komodo/default.png",
+      "happy":"img/characters/Komodo/happy.png",
+      "happy2":"img/characters/komodo/happy2.png"
+    },
+    "name":"Komodo"
+  }
+}

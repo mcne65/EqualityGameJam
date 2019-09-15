@@ -1,0 +1,16 @@
+{
+	"blob": {
+		"name":"Blob",
+		"image":"img/scene/blobenterstram.jpg"
+	},
+
+	"tram" : {
+		"name":"The Tram",
+    "image":"img/scene/tram.jpg"
+  },
+
+	"tram_blur": {
+		"name":"The Tram",
+		"image":"img/scene/tram_blur.jpg"
+	}
+}
