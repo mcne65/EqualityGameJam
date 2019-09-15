@@ -2,7 +2,7 @@
   "default":{
     "poses":{
     },
-    "name":"Narrator"
+    "name":"You"
   },
 
   "legohead":{
@@ -23,13 +23,13 @@
     "name":"Embroidery Face"
   },
 
-  "blobby":{
+  "blob":{
     "poses":{
-      "default":"img/characters/blobby/default.png",
-      "happy":"img/characters/blobby/happy.png",
-      "angry":"img/characters/blobby/angry.png"
+      "default":"img/characters/blob/default.png",
+      "happy":"img/characters/blob/happy.png",
+      "neutral":"img/characters/blob/neutral.png"
     },
-    "name":"Blobby"
+    "name":"Blob"
   },
 
   "komodo":{
