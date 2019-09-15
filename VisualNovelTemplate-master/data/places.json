@@ -12,5 +12,16 @@
 	"tram_blur": {
 		"name":"The Tram",
 		"image":"img/scene/tram_blur.jpg"
+	},
+
+	"title": {
+		"name":"Blob Enters Tram",
+		"image":"img/scene/blobenterstram.jpg"
+	},
+
+	"title": {
+		"name":"Play Game",
+		"image":"img/scene/title.jpg"
 	}
+
 }
